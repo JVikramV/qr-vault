@@ -1,0 +1,5 @@
+package com.example.qr_vault
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
