@@ -63,3 +63,18 @@ Instead of searching through hundreds of screenshots to find a payment QR, QR Va
 * Dark purple fintech-inspired theme
 * Custom application icon
 * Smooth user experience
+📸 Screenshots
+  App Icon
+  <img width="1024" height="1024" alt="imagefinal" src="https://github.com/user-attachments/assets/dcdd154d-68c9-45ad-b586-bcdf349e4034" />
+  Home Screen
+  <img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/ff3c4d9e-9ac2-4c89-9e59-12d9c4831484" />
+  QR Detail Screen
+  <img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/d1073ff1-a1ac-4cf3-a906-147456fd1255" />
+  Share QR
+  <img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/70dcc842-5e1b-47b1-94ec-da4e7a65fa56" />
+  Favorites
+  <img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/9389a387-e507-4ef1-8452-b8ffbfc6d179" />
+
+
+
+
